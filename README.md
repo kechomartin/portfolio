@@ -1,1 +1,2 @@
 # portfolio 
+> open to criticism 
