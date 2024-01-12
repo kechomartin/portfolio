@@ -1,3 +1,3 @@
 # portfolio 
-> open to criticism
-> bug fixing in progress
+> bug fixing in progress 👷 
+
