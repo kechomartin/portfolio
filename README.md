@@ -26,7 +26,7 @@ This repository contains three projects:
 1. Clone the repository:
 
    ```bash
-   git clone
+   git clone https://github.com/kech0/portfolio.git
 ## Contributors 
 
    martin kecho - developer 
