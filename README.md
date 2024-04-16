@@ -1,6 +1,5 @@
 > bug fixing in progress
-> The bugs are not fixed
-> # Kecho's Projects Repository
+> # my Projects 
 
 ## Overview
 
