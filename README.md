@@ -1,4 +1,4 @@
-> bug fixing in progress
+
 > # my Projects 
 
 ## Overview :
