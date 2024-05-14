@@ -24,6 +24,11 @@ This repository contains three projects:
 
 Maternal Inc is a premier daycare center dedicated to providing exceptional care and early childhood education for children aged 9 months - 4 years . Our mission is to create a nurturing and stimulating environment where children can learn, play, and grow.
 
+5.Bank-management-system
+This is a basic financial record management system .
+> Are you a student looking to learn , feel free to use this repo as a guide to your own personal project.
+> let me try and add to it , feel free to join me, in learning .
+
 ## Getting Started
 
 1. Clone the repository:
