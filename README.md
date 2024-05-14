@@ -20,6 +20,10 @@ This repository contains three projects:
    - Technologies: [List technologies used, e.g., Python, Flask, SQLite]
    - Features: [Describe functionalities like geolocation, IP information retrieval, etc.]
 
+4. **MarternalInc**
+
+Maternal Inc is a premier daycare center dedicated to providing exceptional care and early childhood education for children aged 9 months - 4 years . Our mission is to create a nurturing and stimulating environment where children can learn, play, and grow.
+
 ## Getting Started
 
 1. Clone the repository:
