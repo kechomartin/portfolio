@@ -34,7 +34,7 @@ let me try and add to it , feel free to join me, in learning .
 
 ## Contributors 
 
-   martin kecho - developer 
+   martin kecho - developer .
    
 
 
