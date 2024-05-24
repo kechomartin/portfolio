@@ -3,7 +3,7 @@
 
 ## Overview :
 
-This repository contains three projects:
+This repository contains three projects
 
 1. **Mental Health App**
    
